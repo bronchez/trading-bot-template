@@ -76,7 +76,7 @@
                 "com": "bot.yourbrand.com"
             },
             "staging": {
-                "com": "staging-bot.yourbrand.com"
+                "com": "localhost"
             }
         },
         "auth2_url": {
