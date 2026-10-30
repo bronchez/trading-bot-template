@@ -76,7 +76,7 @@
                 "com": "bot.yourbrand.com"
             },
             "staging": {
-                "com": "localhost"
+                "com": "terrible-broomstick-gppprg7gj4529qq4-8443.github.dev"
             }
         },
         "auth2_url": {
@@ -85,8 +85,8 @@
         },
         "derivws": {
             "url": {
-                "staging": "https://staging-api.derivws.com/trading/v1/",
-                "production": "https://auth.deriv.com/oauth2/"
+                "staging": "https://api.derivws.com/trading/v1/",
+                "production": "https://api.derivws.com/trading/v1/"
             },
             "directories": {
                 "options": "options/",
